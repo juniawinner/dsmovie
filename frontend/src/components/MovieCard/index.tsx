@@ -1,15 +1,12 @@
 import MovieScore from "components/MovieScore";
 import { Link } from "react-router-dom";
+import { Movie } from "types/movie";
 
-function MovieCard() {
+type Props = {
+    movie: Movie;
+}
 
-    const movie = {
-        id: 1,
-        image: "https://rederuasp.files.wordpress.com/2017/08/cropped-13041255_1022453481173057_7646186484742796767_o.jpg",
-        title: "Não Somos Mendigos",
-        count: 2,
-        score: 4.5
-    };
+function MovieCard( { movie } : Props) {
 
     return (
         <div>
@@ -24,8 +21,6 @@ function MovieCard() {
 
             </div>
         </div>
-
-
     );
 }
 
