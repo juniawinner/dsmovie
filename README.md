@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-<img src="" alt="Badge License MIT">
+<img src="https://img.shields.io/github/license/juniawinner/dsmovie?style=plastic" alt="Badge License MIT">
 <img src="https://img.shields.io/github/stars/juniawinner/dsmovie?style=plastic" alt="Badge Stars on GitHub">
 </p>
 
 # *Pop Rua DSMovies*
 
-vídeo
+![Vídeo de demonstação do projeto](https://ik.imagekit.io/x4ikoq975/PM-v_wC8XYXXLU.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1652883696928)
 
 <h3 align="center">
 <a href="https://pop-rua-dsmovie.netlify.app" title="Pop Rua DSMovies">Acessar a demonstração</a>
@@ -21,7 +21,7 @@ vídeo
 1. [Funcionalidades](#-funcionalidades)
 1. [Design Responsivo](#-design-responsivo)
 1. [Tecnologias utilizadas](#-tecnologias-utilizadas)
-1. [Como executar o projeto](#-como-executar-o-projeto)
+1. [Como baixar o projeto](#-como-baixar-o-projeto)
 1. [Autora](#-autora)
 
 # 🔖 Sobre o projeto
@@ -64,7 +64,7 @@ BACK-END                                                     |                  
 [PostgreSQL](https://www.postgresql.org/)                    |[Bootstrap](https://getbootstrap.com/)              |
 [H2 Database](https://www.h2database.com/html/main.html)     |[Axios](https://axios-http.com/ptbr/)               |
 
-# 🗂️ Como executar o projeto
+# 🗂️ Como baixar o projeto
 
 ## Front-end
 
