@@ -1,18 +1,14 @@
-<p align="center">
-<img src="https://ik.imagekit.io/x4ikoq975/P-a_kDyxKmvV6.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652814498359" alt="Apresentação do projeto Pop Rua DSMovies">
-</p>
+# *Pop Rua DSMovies*
 
 <p align="center">
 <img src="https://img.shields.io/github/license/juniawinner/dsmovie?style=plastic" alt="Badge License MIT">
 <img src="https://img.shields.io/github/stars/juniawinner/dsmovie?style=plastic" alt="Badge Stars on GitHub">
 </p>
 
-# *Pop Rua DSMovies*
-
-![Vídeo de demonstação do projeto](https://ik.imagekit.io/x4ikoq975/PM-v_wC8XYXXLU.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1652883696928)
+[![Vídeo de demonstação do projeto](https://ik.imagekit.io/x4ikoq975/P-capa_gdF6UQqb7I.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652886290464)](https://ik.imagekit.io/x4ikoq975/PM-v_wC8XYXXLU.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1652883696928)
 
 <h3 align="center">
-<a href="https://pop-rua-dsmovie.netlify.app" title="Pop Rua DSMovies">Acessar a demonstração</a>
+<a href="https://pop-rua-dsmovie.netlify.app" title="Pop Rua DSMovies">Site do projeto</a>
 </h3>
 
 # 📜 Índice
